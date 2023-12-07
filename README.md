@@ -1,4 +1,4 @@
-# Hi there ✨
+# Hi there ✨ I'm Liz
 <h3>A novice developer trying to improve</h3>
 <p align="center">
   <a><img align="center" alt="Buy me a Coffee" width="258px" src="https://i.pinimg.com/originals/ab/dc/be/abdcbe5fdef8ee78bdc312cda2b67df6.gif" /></a>
